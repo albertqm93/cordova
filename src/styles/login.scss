@@ -1,0 +1,36 @@
+.loginJS{
+    background-color:white;
+}
+
+.login{
+    margin-top: 50px;
+    margin-bottom:30px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left:46%;
+}
+
+.footer{
+    background-color: #222;
+}
+
+.registerUser{
+    margin-left: 10px;
+}
+
+.forgetPassword{
+    margin-left: 38%;
+}
+
+a.forgetPassword:hover {
+    color: red;
+}
+
+a.registerUser:hover {
+    color: red;
+}
+
+#buttonLogin{
+    margin-left:45%;
+}

@@ -1,0 +1,16 @@
+.form-fileinput {
+  img {
+    max-width: 200px;
+  }
+
+  .progress-bar {
+    background-color: lightgrey;
+    height: 20px;
+
+    .progress-bar-content {
+      background-color: tomato;
+      height: 20px;
+      transition: width 0.3s;
+    }
+  }
+}

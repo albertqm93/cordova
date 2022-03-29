@@ -1,0 +1,131 @@
+.cheesecakeJS{
+    background-image: url("../images/backgroundKitchencrematotal.jpeg");
+    height: 5900px;
+}
+
+.cheesecake{
+    margin-bottom:1%;
+}
+
+#espacio{
+    margin-left: 10%;
+    width:100%x;
+}
+
+.article1{
+    width: 90%;
+    background-color: #B2FFFFad;
+    border-radius: 20px;
+}
+
+.titlee{
+    font-size: 50px;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: 3%;
+    padding-top: 5%;
+}
+
+#content{
+    width:100%;
+}
+
+.carousel-inner{
+    height:800px;
+}
+
+#bloquee{
+    margin-left:10%;
+}
+
+.separacionTitulos{
+    margin-top:2%;
+    margin-bottom:2%;
+}
+
+.separacionPeque{
+    margin-top:1%;
+    margin-bottom:1%;
+}
+
+separacionFooter{
+    padding-top: 5%;
+}
+
+hr {
+    border: 0; 
+    height: 12px; 
+    box-shadow: inset 0 12px 12px -12px orange;
+    margin: 3% auto 3% auto;
+}
+
+.subtitle{
+    font-size: 35px;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subSubTitle{
+    font-size: 25px;
+    text-decoration: underline;
+    font-weight: bold;
+    width:6%;
+}
+
+.types{
+    margin-left: 1%;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.childs{    
+    margin-left: 7%;
+}
+
+.subTypes{
+    font-size: 25px;
+    text-decoration: underline;
+    font-weight: bold;
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.subTypesSpecial{
+    font-size: 25px;
+    text-decoration: underline;
+    font-weight: bold;
+    flex: 0 0 50%;
+    margin-top:15%;
+    display: flex;
+    justify-content: center;
+}
+
+.imgType{
+    margin-top:7%;
+    margin-bottom:10%;
+    border-radius: 5%;
+}
+
+.versiones{
+    display:flex;
+    align-items: baseline;
+}
+
+.paises{
+    margin-left:8%;
+}
+
+.bloquee2{
+    word-spacing: 5px;
+    width: 90%;
+    margin-left:5%;
+}
+
+.ref{
+    color: black;
+}
+a:hover {
+    color: black;
+}

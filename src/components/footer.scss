@@ -1,0 +1,107 @@
+li{
+    list-style: none;
+}
+
+.icons{
+    height: 20px;
+}
+
+.iconsFace{
+    height:22px;
+}
+
+.disp{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.list{
+    display:list-item;
+}
+
+button{
+    cursor:pointer;
+}
+
+.facebookDiv{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+.facebookSpan{
+    display: flex;
+}
+
+.footer{
+    background-color: #222;
+    margin-top:0% !important;
+}
+.list{
+    margin-top:40px;
+}
+.footerLi{
+    display:flex;
+    flex-grow: 0;
+    flex-shrink: 1;
+    justify-content: space-around;
+    line-height: 32px;
+    padding: 0px 24px;
+    color: rgb(125, 125, 125);
+}
+.footerUl{
+    display:flex;
+    justify-content: center;
+    max-width: 100%;
+    flex-flow: row-wrap;
+    margin: 0px auto;
+}
+.footerCopyright{
+    padding-bottom:5%;
+    text-align: center;
+    color: rgb(125, 125, 125);
+    margin-top: 3%;
+}
+.footerPages{
+    margin-top: 3%;
+    margin-right: 3%;
+}
+
+.socialMedia{
+    margin-right: 2%;
+}
+
+.facebookIcon{
+    background-color: rgb(24, 119, 242);
+    border: rgb(24, 119, 242);
+    border-radius: 34px;
+    width: 34px;
+}
+
+.instagramIcon{
+    background-color: rgb(195, 42, 163);
+    border: rgb(195, 42, 163);
+    border-radius: 34px;
+}
+
+.whatsappIcon{
+    background-color: rgb(125, 125, 125);
+    border: rgb(125, 125, 125);
+    border-radius: 34px;
+}
+
+.twitterIcon{
+    background-color: rgb(29, 161, 242);
+    border: rgb(29, 161, 242);
+    border-radius: 34px;
+}
+
+.title{
+    color: rgb(125, 125, 125);
+}
+a.title:hover {
+    color: white;
+}
+
